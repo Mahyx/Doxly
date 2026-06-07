@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Doxly.Application/Doxly.Application.csproj" />
+  <Project Path="Doxly.Domain.Tests/Doxly.Domain.Tests.csproj" />
+  <Project Path="Doxly.Domain/Doxly.Domain.csproj" />
+  <Project Path="Doxly.Infrastructure/Doxly.Infrastructure.csproj" />
+  <Project Path="Doxly.Web/Doxly.Web.csproj" />
+</Solution>
